@@ -1,4 +1,4 @@
-# facebook_ui_flutter ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/facebook_ui_flutter?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/facebook_ui_flutter?style=social) 
+# facebook_ui_flutter ![GitHub stars](https://github.com/ahsanmalik00/Fb-clone-Using-Flutter) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/facebook_ui_flutter?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ahmedgulabkhan/facebook_ui_flutter) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ahmedgulabkhan/facebook_ui_flutter) ![GitHub issues](https://img.shields.io/github/issues-raw/ahmedgulabkhan/facebook_ui_flutter) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ahmedgulabkhan/facebook_ui_flutter)
 
 **Star ⭐ this repo if you like what you see.**
@@ -31,7 +31,7 @@ A UI clone of the Facebook app that i created using Flutter.
 1. Cloning the repository:
 
 ```
-$ git clone https://github.com/ahmedgulabkhan/facebook_ui_flutter.git
+$ git clone https://github.com/ahsanmalik00/Fb-clone-Using-Flutter.git
 ```
 
 2. Open the project:
@@ -48,22 +48,13 @@ $ git clone https://github.com/ahmedgulabkhan/facebook_ui_flutter.git
 
 ## Author(s)
 
-[Ahmed Gulab Khan](https://www.github.com/ahmedgulabkhan)
-
-## Other Flutter Projects
-
-- [GroupChatApp](https://www.github.com/ahmedgulabkhan/GroupChatApp) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/GroupChatApp?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/GroupChatApp?style=social)
-- [Foodspace](https://www.github.com/ahmedgulabkhan/Foodspace) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/Foodspace?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/Foodspace?style=social)
-- [Atlas](https://www.github.com/ahmedgulabkhan/Atlas) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/Atlas?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/Atlas?style=social)
-- [GitTrends](https://www.github.com/ahmedgulabkhan/GitTrends) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/GitTrends?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/GitTrends?style=social)
-- [youtube_clone_flutter](https://www.github.com/ahmedgulabkhan/youtube_clone_flutter) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/youtube_clone_flutter?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/youtube_clone_flutter?style=social)
-- [SnakeGameFlutter](https://www.github.com/ahmedgulabkhan/SnakeGameFlutter) ![GitHub stars](https://img.shields.io/github/stars/ahmedgulabkhan/SnakeGameFlutter?style=social) ![GitHub forks](https://img.shields.io/github/forks/ahmedgulabkhan/SnakeGameFlutter?style=social)
+https://github.com/ahsanmalik00
 
 ## LICENSE
 ```
 MIT License
 
-Copyright (c) 2020 Ahmed Gulab Khan
+Copyright (c) 2024 Muhammad Ahsan Riaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
